@@ -1,0 +1,70 @@
+[INFO ] 2022-08-28 17:46:39.123 com.browserPackage.Log 13 -Started executing -------> add_things_tobet 
+ [INFO ] 2022-08-28 17:46:44.454 com.browserPackage.Log 13 -browser opened 
+ [INFO ] 2022-08-28 17:47:12.023 com.browserPackage.Log 13 -Navigated to URL : https://www.pokerstarssports.uk 
+ [INFO ] 2022-08-28 17:59:25.301 com.browserPackage.Log 13 -Started executing -------> register_account 
+ [INFO ] 2022-08-28 17:59:29.496 com.browserPackage.Log 13 -browser opened 
+ [INFO ] 2022-08-28 17:59:42.056 com.browserPackage.Log 13 -Navigated to URL : https://community.element14.com 
+ [INFO ] 2022-08-28 18:00:18.628 com.browserPackage.Log 13 -Started executing -------> register_account 
+ [INFO ] 2022-08-28 18:00:21.312 com.browserPackage.Log 13 -browser opened 
+ [INFO ] 2022-08-28 18:00:33.028 com.browserPackage.Log 13 -Navigated to URL : https://community.element14.com 
+ [INFO ] 2022-08-28 18:03:12.065 com.browserPackage.Log 13 -Started executing -------> register_account 
+ [INFO ] 2022-08-28 18:03:14.857 com.browserPackage.Log 13 -browser opened 
+ [INFO ] 2022-08-28 18:03:28.692 com.browserPackage.Log 13 -Navigated to URL : https://community.element14.com 
+ [INFO ] 2022-08-28 18:03:58.765 com.browserPackage.Log 13 -Started executing -------> register_account 
+ [INFO ] 2022-08-28 18:04:01.471 com.browserPackage.Log 13 -browser opened 
+ [INFO ] 2022-08-28 18:04:21.461 com.browserPackage.Log 13 -Navigated to URL : https://community.element14.com 
+ [INFO ] 2022-08-28 18:05:02.237 com.browserPackage.Log 13 -Started executing -------> register_account 
+ [INFO ] 2022-08-28 18:05:04.665 com.browserPackage.Log 13 -browser opened 
+ [INFO ] 2022-08-28 18:05:17.761 com.browserPackage.Log 13 -Navigated to URL : https://community.element14.com 
+ [INFO ] 2022-08-28 19:25:28.795 com.browserPackage.Log 13 -Started executing -------> register_account 
+ [INFO ] 2022-08-28 19:25:31.967 com.browserPackage.Log 13 -browser opened 
+ [INFO ] 2022-08-28 19:25:44.465 com.browserPackage.Log 13 -Navigated to URL : https://community.element14.com 
+ [INFO ] 2022-08-28 19:26:09.703 com.browserPackage.Log 13 -Started executing -------> register_account 
+ [INFO ] 2022-08-28 19:26:14.809 com.browserPackage.Log 13 -browser opened 
+ [INFO ] 2022-08-28 19:26:53.632 com.browserPackage.Log 13 -Navigated to URL : https://community.element14.com 
+ [INFO ] 2022-08-28 19:43:27.708 com.browserPackage.Log 13 -Started executing -------> register_account 
+ [INFO ] 2022-08-28 19:43:32.146 com.browserPackage.Log 13 -browser opened 
+ [INFO ] 2022-08-28 19:43:45.690 com.browserPackage.Log 13 -Navigated to URL : https://community.element14.com 
+ [INFO ] 2022-08-28 19:44:06.704 com.browserPackage.Log 13 -Started executing -------> register_account 
+ [INFO ] 2022-08-28 19:44:15.636 com.browserPackage.Log 13 -browser opened 
+ [INFO ] 2022-08-28 19:44:58.097 com.browserPackage.Log 13 -Navigated to URL : https://community.element14.com 
+ [INFO ] 2022-08-28 19:52:25.167 com.browserPackage.Log 13 -Started executing -------> register_account 
+ [INFO ] 2022-08-28 19:52:29.029 com.browserPackage.Log 13 -browser opened 
+ [INFO ] 2022-08-28 19:52:43.261 com.browserPackage.Log 13 -Navigated to URL : https://community.element14.com 
+ [INFO ] 2022-08-28 19:53:02.288 com.browserPackage.Log 13 -Started executing -------> register_account 
+ [INFO ] 2022-08-28 19:53:12.019 com.browserPackage.Log 13 -browser opened 
+ [INFO ] 2022-08-28 19:53:53.060 com.browserPackage.Log 13 -Navigated to URL : https://community.element14.com 
+ [INFO ] 2022-08-28 19:57:09.605 com.browserPackage.Log 13 -Started executing -------> register_account 
+ [INFO ] 2022-08-28 19:57:19.334 com.browserPackage.Log 13 -browser opened 
+ [INFO ] 2022-08-28 19:57:45.309 com.browserPackage.Log 13 -Navigated to URL : https://community.element14.com 
+ [INFO ] 2022-08-28 19:58:06.962 com.browserPackage.Log 13 -Started executing -------> register_account 
+ [INFO ] 2022-08-28 19:58:17.526 com.browserPackage.Log 13 -browser opened 
+ [INFO ] 2022-08-28 19:58:57.000 com.browserPackage.Log 13 -Navigated to URL : https://community.element14.com 
+ [INFO ] 2022-08-28 19:59:27.969 com.browserPackage.Log 13 -Started executing -------> register_account 
+ [INFO ] 2022-08-28 19:59:38.832 com.browserPackage.Log 13 -browser opened 
+ [INFO ] 2022-08-28 20:00:11.187 com.browserPackage.Log 13 -Navigated to URL : https://community.element14.com 
+ [INFO ] 2022-08-28 20:06:09.369 com.browserPackage.Log 13 -Started executing -------> register_account 
+ [INFO ] 2022-08-28 20:06:13.211 com.browserPackage.Log 13 -browser opened 
+ [INFO ] 2022-08-28 20:06:26.127 com.browserPackage.Log 13 -Navigated to URL : https://community.element14.com 
+ [INFO ] 2022-08-28 20:07:37.436 com.browserPackage.Log 13 -Started executing -------> register_account 
+ [INFO ] 2022-08-28 20:07:47.453 com.browserPackage.Log 13 -browser opened 
+ [INFO ] 2022-08-28 20:08:17.001 com.browserPackage.Log 13 -Navigated to URL : https://community.element14.com 
+ [INFO ] 2022-08-28 20:10:56.831 com.browserPackage.Log 13 -Started executing -------> register_account 
+ [INFO ] 2022-08-28 20:11:09.628 com.browserPackage.Log 13 -browser opened 
+ [INFO ] 2022-08-28 20:11:45.058 com.browserPackage.Log 13 -Navigated to URL : https://community.element14.com 
+ [INFO ] 2022-08-28 20:19:49.902 com.browserPackage.Log 13 -Started executing -------> register_account 
+ [INFO ] 2022-08-28 20:19:53.627 com.browserPackage.Log 13 -browser opened 
+ [INFO ] 2022-08-28 20:20:05.921 com.browserPackage.Log 13 -Navigated to URL : https://community.element14.com 
+ [INFO ] 2022-08-28 20:27:37.554 com.browserPackage.Log 13 -Started executing -------> register_account 
+ [INFO ] 2022-08-28 20:27:41.213 com.browserPackage.Log 13 -browser opened 
+ [INFO ] 2022-08-28 20:28:00.017 com.browserPackage.Log 13 -Navigated to URL : https://community.element14.com 
+ [INFO ] 2022-08-28 20:30:41.255 com.browserPackage.Log 13 -Started executing -------> register_account 
+ [INFO ] 2022-08-28 20:30:50.328 com.browserPackage.Log 13 -browser opened 
+ [INFO ] 2022-08-28 20:31:14.167 com.browserPackage.Log 13 -Navigated to URL : https://community.element14.com 
+ [INFO ] 2022-08-28 20:34:35.200 com.browserPackage.Log 13 -Started executing -------> register_account 
+ [INFO ] 2022-08-28 20:34:38.904 com.browserPackage.Log 13 -browser opened 
+ [INFO ] 2022-08-28 20:34:51.203 com.browserPackage.Log 13 -Navigated to URL : https://community.element14.com 
+ [INFO ] 2022-08-28 20:36:26.439 com.browserPackage.Log 13 -Started executing -------> register_account 
+ [INFO ] 2022-08-28 20:36:38.359 com.browserPackage.Log 13 -browser opened 
+ [INFO ] 2022-08-28 20:37:09.172 com.browserPackage.Log 13 -Navigated to URL : https://community.element14.com 
+ 
