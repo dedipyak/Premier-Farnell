@@ -104,18 +104,20 @@ public class RegisterPage extends BaseClass {
 
     public void clickJoinNow()
     {
-        driver.switchTo().frame(captchaIframe);
+      // below code is for buster.crx to skip the captcha 
+      //  driver.switchTo().frame(captchaIframe);
         
-        if(captchaButton.size()>0)
-        {
-            click(captchaButton.get(0));
-            threadSleep(30);
-            driver.switchTo().defaultContent();
-            driver.switchTo().frame(secondCaptchaFrame);
-            click(skipsolveButton);
-            threadSleep(10);
-        }
-        driver.switchTo().defaultContent();
+      //  if(captchaButton.size()>0)
+      //  {
+      //      click(captchaButton.get(0));
+      //      threadSleep(30);
+      //      driver.switchTo().defaultContent();
+      //     driver.switchTo().frame(secondCaptchaFrame);
+      //      click(skipsolveButton);
+      //      threadSleep(10);
+      //  }
+      //  driver.switchTo().defaultContent();
+        threadSleep(10);
         click(joinNowButton);
     }
 }
