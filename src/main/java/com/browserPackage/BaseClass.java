@@ -48,7 +48,7 @@ public class BaseClass {
 			if (browser.equals("chrome") && (System.getProperty("os.name").contains("Win")|| System.getProperty("os.name").contains("win"))) {
 				System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir") + "\\browser\\chromedriver\\chromedriver.exe");
 				chromeOptions.addArguments("--start-maximized");
-				chromeOptions.addExtensions(new File(System.getProperty("user.dir") +"\\browser\\buster.crx"));
+				chromeOptions.addExtensions(new File(System.getProperty("user.dir") +"\\browser\\nocaptcha.crx"));
 				//chromeOptions.addArguments("--incognito");
 				driver = new ChromeDriver(chromeOptions);
 				Log.LogInfo("Browser is opened");
@@ -58,7 +58,7 @@ public class BaseClass {
 
 				System.setProperty("webdriver.chrome.driver","browser/chromedriver/chromedriver");
 				//chromeOptions.addArguments("incognito");// uncomment if the user wants to run in incognito mode
-				chromeOptions.addExtensions(new File("browser/buster.crx"));
+				chromeOptions.addExtensions(new File("browser/nocaptcha.crx"));
 				capabilities.setCapability(ChromeOptions.CAPABILITY, chromeOptions);
 				driver = new ChromeDriver(chromeOptions);
 				Log.LogInfo("browser opened");
